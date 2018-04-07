@@ -18,7 +18,7 @@ email: vinayakDhar@github.io
 description: >- # this means to ignore newlines until "baseurl:"
   A place where I can document my learnings and try to explain things
   in pretty simple terms.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://vinayakDhar@github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vinayakDhar
 
